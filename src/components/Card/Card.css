@@ -1,0 +1,44 @@
+
+
+.card--item {
+    position: relative;
+    margin: 0 8px 16px 8px;
+    min-width: 180px;
+}
+
+.card--status {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    width: 60px;
+    padding: 4px 0;
+    text-align: center;
+    font-size: 10px;
+    line-height: 11px;
+    color: #222222;
+    background-color: #ffffff;
+    border-radius: 2px;
+}
+
+.card--item__image {
+    width: 175px;
+}
+
+.card--item__info {
+    color: #222222;
+    font-size: 12px;
+    line-height: 13.2px;
+}
+
+.card--item__info--rating img {
+    height: 14px;
+    width: 14px;
+}
+
+.card--item__info--rating__grey {
+    color: #918e9b;
+}
+
+.card--item__info > div {
+    margin: 8px 0;
+}

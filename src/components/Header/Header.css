@@ -1,0 +1,11 @@
+.nav {
+    height: 70px;
+    box-shadow: 0px 2.9825618267059326px 7.456404209136963px 0px #0000001A;
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+}
+
+.nav--logo  {
+    width: 82px;
+}
